@@ -1,0 +1,2 @@
+# minimo
+Full Minimo projects
